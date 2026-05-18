@@ -37,7 +37,7 @@ Full-stack hospital management system with patient registration, doctor scheduli
 ### 💬 QuickChat
 Real-time full-stack chat app. Users, rooms, live messages — the full thing. Built to understand WebSockets and stateful backend architecture.
 `JavaScript` `Node.js` `MongoDB`
-→ [View repo](https://github.com/imadityameena/QuickChat) · [Live demo](https://github.com/imadityameena/QuickChat-A-chatting-app)
+→ [View repo](https://github.com/imadityameena/QuickChat) · [Live demo](https://quick-chat-azure.vercel.app/login)
 
 ### 🔐 veerifyAI
 AI-powered document verification tool built in TypeScript. Experimenting with how AI can handle trust and identity workflows.
