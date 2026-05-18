@@ -27,17 +27,17 @@ Looking for **remote roles** and **freelance projects** I can own end-to-end.
 ### 🍳 ChefAI
 AI-powered recipe generator. Describe what's in your fridge, get a full recipe back. Built to explore LLM API integration with a clean React frontend.
 `JavaScript` `React` `AI/LLM`
-→ [View repo](https://github.com/imadityameena/ChefAI) · [Live demo](#add-your-link)
+→ [View repo](https://github.com/imadityameena/ChefAI) · [Live demo](https://chef-ai-xqr8.vercel.app/)
 
 ### 🏥 Prescripto — Hospital App
 Full-stack hospital management system with patient registration, doctor scheduling, and appointment booking. One of my most complete builds.
 `JavaScript` `Node.js` `MongoDB`
-→ [View repo](https://github.com/imadityameena/Prescripto_Hospital_app) · [Live demo](#add-your-link)
+→ [View repo](https://github.com/imadityameena/Prescripto_Hospital_app) · [Live demo](https://prescripto-hospital-app.vercel.app/)
 
 ### 💬 QuickChat
 Real-time full-stack chat app. Users, rooms, live messages — the full thing. Built to understand WebSockets and stateful backend architecture.
 `JavaScript` `Node.js` `MongoDB`
-→ [View repo](https://github.com/imadityameena/QuickChat) · [Live demo](#add-your-link)
+→ [View repo](https://github.com/imadityameena/QuickChat) · [Live demo](https://github.com/imadityameena/QuickChat-A-chatting-app)
 
 ### 🔐 veerifyAI
 AI-powered document verification tool built in TypeScript. Experimenting with how AI can handle trust and identity workflows.
@@ -47,7 +47,7 @@ AI-powered document verification tool built in TypeScript. Experimenting with ho
 ### 📚 edulaunch-portfolio
 Portfolio site for an edtech brand — TypeScript, clean UI, built to convert. My first serious TypeScript project.
 `TypeScript` `React`
-→ [View repo](https://github.com/imadityameena/edulaunch-portfolio) · [Live demo](#add-your-link)
+→ [View repo](https://github.com/imadityameena/edulaunch-portfolio) · [Live demo](https://portfolio2-sigma-ruby.vercel.app/)
 
 ---
 
