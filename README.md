@@ -55,13 +55,7 @@ Portfolio site for an edtech brand — TypeScript, clean UI, built to convert. M
 
 ---
 
-## ⚡ Right now
 
-→ Getting deeper into TypeScript and system design
-→ Adding live demos + deployed links to every project
-→ Looking for my first remote role or freelance client — actively
-
----
 
 ## 📬 Work with me
 
