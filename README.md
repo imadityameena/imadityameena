@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/Also-TypeScript-yellow)
 ![Location](https://img.shields.io/badge/India-IST%20(UTC%2B5%3A30)-lightgrey)
 
---- 
+
 
 Full-stack developer, 6 months of hands-on experience. I've built AI-powered SaaS tools, a hospital management system, a real-time chat app, and a food delivery platform. I focus on shipping things that work end-to-end, not just demos. Currently looking for remote roles and freelance projects.
 
