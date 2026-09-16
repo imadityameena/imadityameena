@@ -6,11 +6,7 @@
 ![Stack](https://img.shields.io/badge/Stack-React%20%C2%B7%20Node%20%C2%B7%20MongoDB-blue)
 ![TypeScript](https://img.shields.io/badge/Also-TypeScript-yellow)
 ![Location](https://img.shields.io/badge/India-IST%20(UTC%2B5%3A30)-lightgrey)
-
-I'm a full-stack developer 6 months in — and I've shipped more than most people do in a year.
-AI-powered SaaS tools, hospital systems, real-time chat apps, food delivery platforms.
-I build things that actually work, not just look good in a repo.
-Looking for **remote roles** and **freelance projects** I can own end-to-end.
+Full-stack developer, 6 months of hands-on experience. I've built AI-powered SaaS tools, a hospital management system, a real-time chat app, and a food delivery platform. I focus on shipping things that work end-to-end, not just demos. Currently looking for remote roles and freelance projects.
 
 ---
 
