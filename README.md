@@ -8,7 +8,7 @@
 ![Location](https://img.shields.io/badge/India-IST%20(UTC%2B5%3A30)-lightgrey)
 
 I'm a full-stack developer 6 months in — and I've shipped more than most people do in a year.
-AI tools, hospital systems, real-time chat apps, food delivery platforms.
+AI-powered SaaS tools, hospital systems, real-time chat apps, food delivery platforms.
 I build things that actually work, not just look good in a repo.
 Looking for **remote roles** and **freelance projects** I can own end-to-end.
 
@@ -16,13 +16,18 @@ Looking for **remote roles** and **freelance projects** I can own end-to-end.
 
 ## 🛠 Stack
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| React · TypeScript · JavaScript · HTML/CSS | Node.js · Express · REST APIs | MongoDB · PostgreSQL | Git · Postman · VS Code |
+| Frontend | Backend | Database | AI | Tools |
+|----------|---------|----------|-----|-------|
+| React · Next.js · TypeScript · JavaScript · HTML/CSS | Node.js · Express · REST APIs | MongoDB · PostgreSQL | Google Gemini · LLM APIs | Git · Postman · VS Code |
 
 ---
 
 ## 🚀 Projects
+
+### 🤖 SupportAI
+Multi-tenant AI customer-support platform — businesses configure their own FAQs and policies, then deploy a knowledge-grounded chatbot on any website with a single script tag. Built with tenant isolation, protected auth, and retry-safe AI calls.
+`Next.js` `TypeScript` `MongoDB` `Gemini`
+→ [View repo](https://github.com/imadityameena/SupportAI) · [Live demo](https://support-ai-self.vercel.app/)
 
 ### 🍳 ChefAI
 AI-powered recipe generator. Describe what's in your fridge, get a full recipe back. Built to explore LLM API integration with a clean React frontend.
